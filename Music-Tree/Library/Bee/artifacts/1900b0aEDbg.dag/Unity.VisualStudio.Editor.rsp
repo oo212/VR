@@ -118,7 +118,6 @@
 -define:USE_INPUT_SYSTEM_POSE_CONTROL
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"F:/Unity/Music-Tree/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -332,6 +331,7 @@
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"F:/Unity/Unity 2021.3.26f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"G:/VR/Music-Tree/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
